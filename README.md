@@ -9,4 +9,4 @@ notes from datacamp courses
 
 ## _Toolbox_
 [Course](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) on functions, lambda functions and errors. </br>
-[Course1](https://www.datacamp.com/courses/importing-data-in-python-part-1) and [Course2](https://www.datacamp.com/courses/importing-data-in-python-part-2) on  importing files, sql, http. API.
+[Course1](https://www.datacamp.com/courses/importing-data-in-python-part-1) and [Course2](https://www.datacamp.com/courses/importing-data-in-python-part-2) on  importing files, sql, http, API.
