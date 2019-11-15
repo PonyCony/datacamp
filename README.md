@@ -12,3 +12,6 @@ notes from datacamp courses
 [Course](https://www.datacamp.com/courses/pandas-foundations) on Pandas foundations. </br>
 [Course](https://www.datacamp.com/courses/cleaning-data-in-python) on cleaning data. </br>
 [Course](https://www.datacamp.com/courses/python-data-science-toolbox-part-1) on functions, lambda functions and errors. </br>
+
+## _Police Activity_
+[Course](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas) case.
