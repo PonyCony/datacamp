@@ -16,3 +16,6 @@ notes from datacamp courses
 
 ## _Police Activity_
 [Course](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas) case.
+
+## _Marketing_
+[Course](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas) on analyzing campaigns, customer segmentation, A/B testing.
