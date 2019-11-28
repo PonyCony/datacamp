@@ -18,4 +18,5 @@ notes from datacamp courses
 [Course](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas) case.
 
 ## _Marketing_
-[Course](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas) on analyzing campaigns, customer segmentation, A/B testing.
+[Course](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas) on analyzing campaigns, customer segmentation, A/B testing. </br>
+[Course](https://www.datacamp.com/courses/machine-learning-for-marketing-in-python) on churn prediction using Logistic Regression & Decision Trees, CLV calculation and prediction using ______, customer segmentation using ______.
