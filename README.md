@@ -19,4 +19,4 @@ notes from datacamp courses
 
 ## _Marketing_
 [Course](https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas) on analyzing campaigns, customer segmentation, A/B testing. </br>
-[Course](https://www.datacamp.com/courses/machine-learning-for-marketing-in-python) on churn prediction using Logistic Regression & Decision Trees, CLV calculation and prediction using ______, customer segmentation using ______.
+[Course](https://www.datacamp.com/courses/machine-learning-for-marketing-in-python) on churn prediction using Logistic Regression & Decision Trees, CLV calculation, purchase prediction using Linear Regression, customer segmentation using ______.
